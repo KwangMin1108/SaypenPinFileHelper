@@ -6759,6 +6759,15 @@
     "bookUrl": "http://saypen.com/item/bookView/2134"
   },
   {
+    "pinNumber": "3146118",
+    "publisher": "언어세상",
+    "title": "Hello Genius 세트 시리즈",
+    "fname": "3146118_bk.pin",
+    "sizeMB": 0.1,
+    "updatedAt": "2026-05-22",
+    "bookUrl": "http://saypen.com/item/bookView/2156"
+  },
+  {
     "pinNumber": "3146069",
     "publisher": "언어세상",
     "title": "I Thought I Saw 시리즈",
@@ -9058,7 +9067,7 @@
     "publisher": "제이와이북스",
     "title": "[S3] 노부영 세이펜2 (노부영베스트30포함)",
     "fname": "3145887_bk.pin",
-    "sizeMB": 1.3,
+    "sizeMB": 1.36,
     "updatedAt": "2023-06-07",
     "bookUrl": "http://saypen.com/item/bookView/652"
   },
