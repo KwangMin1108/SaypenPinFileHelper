@@ -1,16 +1,7 @@
 [
   {
-    "pinNumber": "3146079",
-    "publisher": " (재)충남평생교육진흥원",
-    "title": "충남형 성인문해 부교재 3편 '지혜의 열매'",
-    "fname": "3146079_bk.pin",
-    "sizeMB": 0.75,
-    "updatedAt": "2025-12-22",
-    "bookUrl": "http://saypen.com/item/bookView/2115"
-  },
-  {
     "pinNumber": "65396",
-    "publisher": "(재)충청남도평생교육인재육성진흥원",
+    "publisher": "(재)충남평생교육진흥원",
     "title": "충남형 성인문해 부교재 '소망의 씨앗'",
     "fname": "65396_bk.pin",
     "sizeMB": 0.82,
@@ -19,12 +10,21 @@
   },
   {
     "pinNumber": "3145968",
-    "publisher": "(재)충청남도평생교육인재육성진흥원",
+    "publisher": "(재)충남평생교육진흥원",
     "title": "충남형 성인문해 부교재 2편 '배움의 새싹'",
     "fname": "3145968_bk.pin",
     "sizeMB": 0.77,
     "updatedAt": "2025-01-02",
     "bookUrl": ""
+  },
+  {
+    "pinNumber": "3146079",
+    "publisher": "(재)충남평생교육진흥원",
+    "title": "충남형 성인문해 부교재 3편 '지혜의 열매'",
+    "fname": "3146079_bk.pin",
+    "sizeMB": 0.75,
+    "updatedAt": "2025-12-22",
+    "bookUrl": "http://saypen.com/item/bookView/2115"
   },
   {
     "pinNumber": "65133",
@@ -3541,7 +3541,7 @@
     "publisher": "블루스카이(푸른하늘)",
     "title": "엄마, 이건 뭐야?",
     "fname": "3146094_bk.pin",
-    "sizeMB": 0.08,
+    "sizeMB": 0.1,
     "updatedAt": "2026-04-21",
     "bookUrl": "http://saypen.com/item/bookView/2149"
   },
@@ -4597,6 +4597,15 @@
     "sizeMB": 0.76,
     "updatedAt": "2017-10-31",
     "bookUrl": "http://saypen.com/item/bookView/921"
+  },
+  {
+    "pinNumber": "3160104",
+    "publisher": "세이펜북스",
+    "title": "알파벳으로 발음을 배우는 알쏭카드 플러스+",
+    "fname": "3160104_bk.pin",
+    "sizeMB": 0.21,
+    "updatedAt": "2026-06-05",
+    "bookUrl": "http://saypen.com/item/bookView/2155"
   },
   {
     "pinNumber": "64204",
@@ -7522,6 +7531,15 @@
     "sizeMB": 0.07,
     "updatedAt": "2026-04-07",
     "bookUrl": "http://saypen.com/item/bookView/2144"
+  },
+  {
+    "pinNumber": "3146117",
+    "publisher": "엔밀리밀리",
+    "title": "아기병풍 플러스 6단",
+    "fname": "3146117_bk.pin",
+    "sizeMB": 0.05,
+    "updatedAt": "2026-06-01",
+    "bookUrl": "http://saypen.com/item/bookView/2162"
   },
   {
     "pinNumber": "3146104",
