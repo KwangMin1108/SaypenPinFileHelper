@@ -463,9 +463,9 @@
     "publisher": "그레이트북스",
     "title": "베베코알라",
     "fname": "65329_bk.pin",
-    "sizeMB": 0.32,
+    "sizeMB": 0.33,
     "updatedAt": "2021-06-29",
-    "bookUrl": "http://saypen.com/item/bookView/1669"
+    "bookUrl": "http://saypen.com/item/bookView/2173"
   },
   {
     "pinNumber": "3145966",
@@ -4248,6 +4248,24 @@
     "bookUrl": "http://saypen.com/item/bookView/2083"
   },
   {
+    "pinNumber": "3160109",
+    "publisher": "세이톡",
+    "title": "톡_Footsteps of Humanity 40 (인류의 발자취 40)",
+    "fname": "3160109_st.toc",
+    "sizeMB": 0.8,
+    "updatedAt": "2026-07-09",
+    "bookUrl": ""
+  },
+  {
+    "pinNumber": "3160101",
+    "publisher": "세이톡",
+    "title": "톡_SAYVOCA 3300(세이보카 3300)",
+    "fname": "3160101_st.toc",
+    "sizeMB": 3.75,
+    "updatedAt": "2026-07-09",
+    "bookUrl": "http://saypen.com/item/bookView/2172"
+  },
+  {
     "pinNumber": "3160102",
     "publisher": "세이톡",
     "title": "톡_뮤직딕셔너리(Music Dictionary)",
@@ -4291,6 +4309,15 @@
     "sizeMB": 1.32,
     "updatedAt": "2020-04-10",
     "bookUrl": "http://saypen.com/item/bookView/1524"
+  },
+  {
+    "pinNumber": "3160109",
+    "publisher": "세이펜북스",
+    "title": "Footsteps of Humanity 40 (인류의 발자취 40)",
+    "fname": "3160109_bk.pin",
+    "sizeMB": 0.6,
+    "updatedAt": "2026-07-09",
+    "bookUrl": ""
   },
   {
     "pinNumber": "65211",
