@@ -2587,7 +2587,7 @@
     "publisher": "마이앤트",
     "title": "세밀화 단어카드 세상의 낱말",
     "fname": "3145946_bk.pin",
-    "sizeMB": 0.16,
+    "sizeMB": 0.19,
     "updatedAt": "2024-06-10",
     "bookUrl": "http://saypen.com/item/bookView/1997"
   },
@@ -3611,7 +3611,7 @@
   {
     "pinNumber": "64729",
     "publisher": "블루앤트리",
-    "title": "NEW 디즈니 잉글리쉬 리딩 클럽 통합(+별도판매:스페셜 에디션+소피아 스페셜+천단어 사전+생활주제사전) ",
+    "title": "NEW 디즈니 잉글리쉬 리딩 클럽 통합(+별도판매:스페셜 에디션+소피아 스페셜+천단어 사전+생활주제사전)",
     "fname": "64729_bk.pin ",
     "sizeMB": 1.96,
     "updatedAt": "2017-10-31",
@@ -4140,6 +4140,15 @@
     "bookUrl": "http://saypen.com/item/bookView/1856"
   },
   {
+    "pinNumber": "3146091",
+    "publisher": "산들꿈(푸른솔)",
+    "title": "사물 인지 병풍",
+    "fname": "3146091_bk.pin",
+    "sizeMB": 0.06,
+    "updatedAt": "2026-07-14",
+    "bookUrl": "http://saypen.com/item/bookView/2174"
+  },
+  {
     "pinNumber": "64780",
     "publisher": "산들꿈(푸른솔)",
     "title": "생각이크는 사물인지 병풍",
@@ -4336,6 +4345,15 @@
     "sizeMB": 0.31,
     "updatedAt": "2018-05-30",
     "bookUrl": "http://saypen.com/item/bookView/17"
+  },
+  {
+    "pinNumber": "3160101",
+    "publisher": "세이펜북스",
+    "title": "SAYVOCA 3300(세이보카 3300)",
+    "fname": "3160101_bk.pin",
+    "sizeMB": 1.55,
+    "updatedAt": "2026-07-13",
+    "bookUrl": "http://saypen.com/item/bookView/2172"
   },
   {
     "pinNumber": "64823",
@@ -5638,7 +5656,7 @@
     "publisher": "아람",
     "title": "(NEW)인물 세미나",
     "fname": "3145964_bk.pin",
-    "sizeMB": 2.86,
+    "sizeMB": 2.87,
     "updatedAt": "2024-07-19",
     "bookUrl": "http://www.saypen.com/item/bookView/2003"
   },
@@ -5980,7 +5998,7 @@
     "publisher": "아람",
     "title": "리리의 이야기 숲",
     "fname": "3146081_bk.pin",
-    "sizeMB": 0.36,
+    "sizeMB": 0.35,
     "updatedAt": "2025-12-02",
     "bookUrl": "http://saypen.com/item/bookView/2111"
   },
@@ -8647,6 +8665,15 @@
     "sizeMB": 0.35,
     "updatedAt": "2017-10-31",
     "bookUrl": ""
+  },
+  {
+    "pinNumber": "3146110",
+    "publisher": "육오빠",
+    "title": "육오빠 아기병풍",
+    "fname": "3146110_bk.pin",
+    "sizeMB": 0.04,
+    "updatedAt": "2026-07-16",
+    "bookUrl": "http://saypen.com/item/bookView/2175"
   },
   {
     "pinNumber": "65311",
