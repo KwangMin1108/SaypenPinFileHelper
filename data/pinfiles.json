@@ -1161,6 +1161,15 @@
     "bookUrl": "http://saypen.com/item/bookView/785"
   },
   {
+    "pinNumber": "3146109",
+    "publisher": "길벗스쿨",
+    "title": "슈퍼 매직 파닉스 소리 나는 알파벳·파닉스 자석",
+    "fname": "3146109_bk.pin",
+    "sizeMB": 0.13,
+    "updatedAt": "2026-08-26",
+    "bookUrl": "http://saypen.com/item/bookView/2188"
+  },
+  {
     "pinNumber": "3145984",
     "publisher": "길벗스쿨",
     "title": "슈퍼 파닉스 한글 + 소리 나는 자석 세트",
@@ -4275,6 +4284,24 @@
     "bookUrl": ""
   },
   {
+    "pinNumber": "3160111",
+    "publisher": "세이톡",
+    "title": "톡_PicoBook 뮤직 공룡 탐험 (Music Dinosaur Adventure)",
+    "fname": "3160111_st.toc",
+    "sizeMB": 0.72,
+    "updatedAt": "2026-08-27",
+    "bookUrl": ""
+  },
+  {
+    "pinNumber": "3160110",
+    "publisher": "세이톡",
+    "title": "톡_PicoBook 뮤직 다이어리 (Music Dairy)",
+    "fname": "3160110_st.toc",
+    "sizeMB": 2.11,
+    "updatedAt": "2026-08-27",
+    "bookUrl": ""
+  },
+  {
     "pinNumber": "3160101",
     "publisher": "세이톡",
     "title": "톡_SAYVOCA 3300(세이보카 3300)",
@@ -4354,6 +4381,24 @@
     "sizeMB": 0.31,
     "updatedAt": "2018-05-30",
     "bookUrl": "http://saypen.com/item/bookView/17"
+  },
+  {
+    "pinNumber": "3160111",
+    "publisher": "세이펜북스",
+    "title": "PicoBook 뮤직 공룡 탐험 (Music Dinosaur Adventure)",
+    "fname": "3160111_bk.pin",
+    "sizeMB": 0.59,
+    "updatedAt": "2026-08-27",
+    "bookUrl": ""
+  },
+  {
+    "pinNumber": "3160110",
+    "publisher": "세이펜북스",
+    "title": "PicoBook 뮤직 다이어리 (Music Dairy)",
+    "fname": "3160110_bk.pin",
+    "sizeMB": 2.0,
+    "updatedAt": "2026-08-27",
+    "bookUrl": ""
   },
   {
     "pinNumber": "3160101",
